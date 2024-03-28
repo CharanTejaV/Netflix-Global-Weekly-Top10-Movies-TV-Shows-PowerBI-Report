@@ -1,7 +1,8 @@
 # Netflix-Global-Weekly-Top10-Movies-TV-Shows-PowerBI-Report
 A Power BI Report to explore weekly rankings, cumulative weeks in top 10 list of Movies and TV shows (English and non-English), and track viewing trends. Updated every Monday morning, covering past two years of data, with averages and total weekly hours viewed.
 
-![Power BI Desktop 3_28_2024 12_54_46 PM](https://github.com/CharanTejaV/Netflix-Global-Weekly-Top10-Movies-TV-Shows-PowerBI-Report/assets/143735053/cc6ef72e-c3ea-4e0a-b702-a4c263f93663)
+![Power BI Desktop 3_28_2024 12_54_46 PM](https://github.com/CharanTejaV/Netflix-Global-Weekly-Top10-Movies-TV-Shows-PowerBI-Report/assets/143735053/cbda52e9-c28d-4aa0-882c-faf7646df955)
+
 
 ## Dataset Description
 This dataset provides a comprehensive view of Netflix's weekly top 10 rankings for both movies and TV shows over a two-year period. It includes essential details such as release stagger, viewership, and cumulative weeks in the top 10. The dataset includes the following columns:
